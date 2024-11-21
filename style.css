@@ -1,0 +1,19 @@
+.filmi {
+    margin: 50px;
+}
+.info {
+    margin: 100px;
+}
+.d-flex {
+    background-color:rgb(249, 249, 250);
+}
+h1{
+    background-color:rgb(249, 249, 250);
+}
+.body{
+    background-color:rgb(249, 249, 250);
+}
+.card{
+    flex-direction: row;
+
+}
